@@ -1,0 +1,2 @@
+.list li { border: 1px solid #ccc; padding-top: 25px; margin-bottom: 6px; }
+.list li div.row div:last-child a { position: fixed; right: -20px; top: 5px; }
